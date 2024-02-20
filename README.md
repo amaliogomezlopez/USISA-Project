@@ -31,7 +31,7 @@
 
 ## About The Project
 
-<a href="https://ibb.co/Wzqmvyy"><img src="https://i.ibb.co/xgPxqjj/piechart.png" alt="piechart" border="0"></a>
+<a href="https://ibb.co/Wzqmvyy"><img src="https://i.ibb.co/xgPxqjj/piechart.png" alt="piechart" border="0" width="400"></a>
 
 ## 1-Introducción
 El proyecto trata acerca de datos de una empresa llamada USISA (Unión Salazonera Isleña
