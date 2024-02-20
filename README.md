@@ -78,6 +78,8 @@ Los datos de la base de datos en SQL fueron extraídos usando MySQL. Para el an�
 
 El proyecto busca aumentar el número de ventas y realizar un programa de fidelización. Para ello se dividen e identifican correctamente los clientes a los que ofrecer una campaña de ofertas.
 Aquí podemos ver la distribución de los clusters y las variables que los explican:
+
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/X8xF6Ym/cluster3d.png" alt="cluster3d" border="0"></a>
 
 Del mismo modo añadimos un gráfico mostrando la distribución del dinero gastado por cada grupo de clentes:
