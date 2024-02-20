@@ -5,8 +5,6 @@
   </a>
 
   <h3 align="center">USISA Project by Amalio</h3>
-  ![usisa_barco](https://github.com/AndresMembrillo/proyecto-usisa/assets/145653361/d019eb2f-299d-4f14-b5c2-a1bae1c6bb58)
-  <p align="center">
     Clustering project for marketing campaign. Sales prediction using timeseries and recommendation system.
     <br/>
     <br/>
@@ -21,7 +19,7 @@
   </p>
 </p>
 
-
+![usisa_barco](https://github.com/AndresMembrillo/proyecto-usisa/assets/145653361/d019eb2f-299d-4f14-b5c2-a1bae1c6bb58)
 
 ## Table Of Contents
 
